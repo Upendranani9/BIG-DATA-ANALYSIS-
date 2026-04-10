@@ -7,7 +7,7 @@
 **Company:** CODTECH IT SOLUTIONS
 **Name:** DEVIREDDY VENKATA UPENDRA REDDY
 **Intern ID:** CMJI1L0Q10
-**Domain:** DATA ANALTICS
+**Domain:** DATA ANALYSIS
 **Duration:** 3 MONTHS
 **Mentor:** NEELA SANTOSH
 
